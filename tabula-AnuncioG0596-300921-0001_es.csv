@@ -1,0 +1,105 @@
+Vértice,UTM-X,UTM-Y
+V1,"513.055,489","4.658.784,592"
+V2,"515.874,567","4.658.784,589"
+V3,"517.257,942","4.654.634,528"
+V4,"514.488,222","4.654.634,527"
+V5,"514.243,787","4.655.192,425"
+V6,"514.079,094","4.655.302,717"
+V7,"513.904,671","4.655.294,947"
+V8,"513.875,620","4.655.397,038"
+V9,"513.890,799","4.655.468,290"
+V10,"513.578,715","4.655.392,848"
+V11,"513.612,345","4.655.489,900"
+V12,"513.812,591","4.655.944,173"
+V13,"513.812,591","4.656.033,107"
+V14,"512.998,966","4.657.825,036"
+V15,"513.055,491","4.658.178,174"
+Aerogenerador,UTM-X,UTM-Y
+AG02,"513.400,00","4.658.013,00"
+AG04,"513.814,00","4.657.632,00"
+AG06,"514.338,00","4.657.475,00"
+AG08,"514.622,00","4.657.177,00"
+AG09,"515.705,00","4.655.799,00"
+AG11,"515.701,00","4.654.906,00"
+Edificio de control,UTM-X,UTM-Y
+V1,"517.124,773","4.655.008,537"
+V2,"517.126,646","4.654.991,333"
+V3,"517.076,370","4.654.985,860"
+V4,"517.074,497","4.655.003,063"
+Estaciones meteorológicas,UTM-X,UTM-Y
+Torroña_CP1_F,"514.194,00","4.657.218,00"
+Torroña_CP3_T,"514.337,00","4.657.474,00"
+Subestación Barrantes,UTM-X,UTM-Y
+V1,"517.069,756","4.654.970,273"
+V2,"517.138,350","4.654.977,742"
+V3,"517.144,412","4.654.922,071"
+V4,"517.075,817","4.654.914,602"
+No de turbinas,Tipo,Potencia total (MW)
+"5 (no 4, 6, 8, 9, 11)",Nordex N149/4200 IECS,"21,00"
+1 (no 2),Nordex N149/4280 IECS,"4,28"
+"",Total,"25,28"
+"",Conexión (SET Barrantes)-(LAAT Gondomar-O Rosal 132 kV)
+Apoyo,UTM-X UTM-Y
+1-Intermedio,"517.066,756 4.654.933,124"
+2-Sustitución,"517.041,752 4.654.938,179"
+"",,Propietario,,,,Datos catastrales,,,Afecciones (m2),,
+No,,,,,,,Pleno dominio,,,,
+"",,,,,,,,,Servidumbre Servidumbre,,
+Nombre,,,Ref. catastral,Pol.,Parc.,Paraje Cultivo,,,de paso de vuelo,Ocu.,Prot.
+"",,,,,,,,,,temporal,eólica
+"",,,,,,,Zap./plat. Sub./edif.,Apoyo,Vial/zanja Aero/torre LAT,,
+Ayuntamiento de Baiona,,,,,,,,,,,
+1,,,,,,,,,,,
+CMVMC de Bahíña,,,,,,,,,,,
+Repr. Juan Domínguez,,,,,,,,,,,
+"",,,54003A04600009,46,9,A Groba MT,,,,,210
+CMVMC de Belesar,,,,,,,,,,,
+2 Repr. Pablo Vicente Sánchez,,,54003A06400009,64,9,A Groba MT,152,,278 4.990,878,5.262
+Román,,,,,,,,,,,
+10,,,,,,,,,,,
+CMVMC Foral da Groba,,,,,,,,,,,
+Repr. Alejandro Troncoso,,,,,,,,,,,
+"",,,54003A07300004,73,4,A Groba MT,,,340,2.514,
+4,,,54003A06500003,65,3,A Groba MT,2.747,,7.653 5.051,8.257,5.148
+CMVMC de Belesar,,,,,,,,,,,
+7 Repr. Pablo Vicente Sánchez,,,54003A07300001,73,1,A Groba MT,,,1.122,6.362,
+Román,,,,,,,,,,,
+6,,,54003A06500009,65,9,A Groba MT,,,134,686,
+15,,,,,,,,,,,
+CMVMC Burgueira,,,,,,,,,,,
+Repr. Camilo González Giráldez,,,,,,,,,,,
+"",,,54003A07400002,74,2,A Groba MT,,,354,407,
+CMVMC de Belesar,,,,,,,,,,,
+5 Repr. Pablo Vicente Sánchez,,,54003A06500001,65,1,A Groba MM,8.028,,18.683 30.575,22.203,26.394
+Román,,,,,,,,,,,
+9,,,,,,,,,,,
+CMVMC Foral da Groba,,,,,,,,,,,
+Repr. Alejandro Troncoso,,,,,,,,,,,
+"",,,54003A07100006,71,6,A Groba MT,,,2.492 7.022,7.077,7.378
+Ayuntamiento de Oia,,,,,,,,,,,
+3,,,36036A00500509,5,509,Chelos MT/MM,3.661,,12.923 11.632,11.469,13.897
+CMVMC Mougás,,,,,,,,,,,
+Repr. Venancio Miniño Rodríguez8,,,36036A00500510,5,510,Chelos MT/MM/,,,,,
+"",,,,,,EU,,,,,
+"",,,,,,,,,2.190,966,
+"GNo",Propietario,Datos catastrales,Afecciones (m2),,,,,,,,,,
+"",Nombre,Ref. catastral,Pol.,Parc.,Paraje,Cultivo,Pleno dominio,"Servidumbrede paso","Servidumbrede vuelo","Ocu.temporal","Prot.eólica",,
+"",,,,,Zap./plat.,Sub./edif.,Apoyo,Vial/zanja,Aero/torre,LAT,,,
+13,36036A02400886,24,886,Besadiña,"MT/MM/EU",,,,303,,,,
+12,36036A02400889,24,889,A Regateira,"MT/MM/EU",,,,986,,,,
+11,36036A00500511,5,511,Chelos,MT/MM,,,,285,,,,
+14,36036A02500912,25,912,Salgueiros,MT,,,,2.574,,,1.586,
+16,36036A02500910,25,910,Salgueiros,MT/MM,,,,2.237,,,2.980,
+18,36036A02500913,25,913,Salgueiros,MT/I,2.675,,,12.723,3.718,,17.204,5.152
+17,36036A02500917,25,917,Salgueiros,"MT/MM/EU",,,,2.345,,,,
+"CMVMC PinzásRepr. Natividad González",36054A00100037,1,37,Mourentán,"MT/MM/EU",909,,,2.952,6.717,,11.949,7.087
+"CMVMC BurgueiraRepr. Camilo González Giráldez",36054A00100036,1,36,Mourentán,MM,2.140,,,7.073,4.297,,8.258,6.216
+"CMVMC PinzásRepr. Natividad González",36054A00300482,3,482,Muros,MM/EU,,,,,,,55,
+"",1,37,Mourentán,"MT/MM/EU",909,,,2.952,6.717,,11.949,7.087
+36054A00100036,1,36,Mourentán,MM,2.140,,,7.073,4.297,,8.258,6.216
+36054A00300482,3,482,Muros,MM/EU,,,,,,,55,
+36054A00300476,3,476,Fiales,MM,,6.623,91,776,,479,4.679,
+"G Núm. 207D atos del derecho mineMro iércoles, 27","2e octubre de 2021PáAgfe. c5ci2on7e7s 9(m )",,,,,,,,,
+Recurso,Sección,Nombre,Pleno dominio,Servidumbre de paso,Servidumbre de vuelo,Ocu. temporal,Prot. eólica,,,
+"",,,Zap./plat.,Sub./edif.,Apoyo,Vial/zanja,Aero/torre,LAT,,
+Agua minero natural,B,Aguasana 2,8.055,,,32.904,18.428,,27.964,22.589

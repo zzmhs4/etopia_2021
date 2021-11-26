@@ -1,0 +1,10 @@
+
+* Curso de Visualización de Datos Urbanos Etopia 2021
+Un repositorio con los contenidos del curso
+1. Introducción y organización del curso
+2. Limpieza de datos
+3. Limpieza de datos 
+4. Análisis de datos
+5. Visualización de datos
+6. Puesta en común de los proyectos y cierre del curso
+
